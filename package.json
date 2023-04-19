@@ -9,7 +9,7 @@
     "build": "tsup index.ts --format cjs,esm --dts",
     "lint": "tsc"
   },
-  "keywords": [],
+  "keywords": ["lru", "cache", "lru-cache"],
   "author": "logesh_kumar",
   "license": "MIT",
   "devDependencies": {
